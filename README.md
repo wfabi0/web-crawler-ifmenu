@@ -29,14 +29,10 @@ Para instalar e executar este projeto, siga as etapas abaixo:
 5. Compile o código fonte:
 
     ```
-    go build -o ../dist/web-crawler-ifmenu.exe .\main.go
+    go build -o out/web-crawler-ifmenu.exe
     ```
 
-6. Agora você pode executar o Web Crawler:
-
-    ```
-    ./web-crawler-ifmenu.exe
-    ```
+6. Basta executar o executável criado na pasta out.
 
 ## Download do executável
 
